@@ -1,0 +1,4 @@
+{
+  "jira_defect_link": "https://jira.example.com/browse/APP-2048",
+  "notes": "Users report intermittent 500 errors during login after OAuth callback timeout."
+}
